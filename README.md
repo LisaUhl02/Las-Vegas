@@ -1,4 +1,4 @@
-# Last-Vegas
+# Las-Vegas
 Your company was booked to
 create an infosite about the most
 famous hotels of the strip. As most of
